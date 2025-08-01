@@ -2,7 +2,7 @@
 # Induction 
  Induction Program 2025 – GNDEC
 
-## 🕊️ A Peaceful Beginning at the College Gurdwara Sahib
+##  A Peaceful Beginning at the College Gurdwara Sahib
 
 The day began on a deeply peaceful and reflective note. At **8:30 a.m.**, all newly admitted students gathered at the **College Gurdwara Sahib** for a soul-touching *Shabad Kirtan*.  
 
