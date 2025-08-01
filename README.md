@@ -78,16 +78,117 @@ The **Head of Department** addressed students personally, reinforcing that the d
 
 ---
 
-## 🌟 A Memorable Beginning
+##  A Memorable Beginning
 
 The first day concluded with:
 -  Powerful messages  
 -  Clear direction  
-- 🔥Real motivation  
+- Real motivation  
 
 > _"It wasn’t just an induction – it was a glimpse into our future as engineers."_  
 
 ---
 
-### 📅 Date: 31 July, 2025  
-### 📍 Guru Nanak Dev Engineering College, Ludhiana
+###  Date: 31 July, 2025  
+###  Guru Nanak Dev Engineering College, Ludhiana
+---
+# Day 2 Experience – First-Year CSE/IT Student
+
+Second day as CSE and IT students was a good mix of tests, useful sessions, and real interactions. The schedule helped us get more comfortable with college life and understand what to expect moving forward.
+
+---
+
+##  9:30 AM – 10:30 AM: English Proficiency Test
+
+The day started with the **English Proficiency Test**. Each section had its own classroom — for example:
+- CSE-A: Room F-106  
+- CSE-B: Room F-107  
+(and so on)
+
+The test checked  basic grammar, vocabulary, and reading skills. It wasn’t too difficult and gave us an idea of where we stand in terms of language understanding.
+
+---
+
+## 11:00 AM – 12:00 PM: Maths Proficiency Test
+
+After a short break, we had the **Maths Proficiency Test** in the same rooms. The questions were based on:
+- Basic maths
+- Logical reasoning
+- Simple problem-solving
+
+It helped us brush up on important concepts and also gave the faculty an idea about our current level.
+
+---
+
+## 12:00 PM – 1:00 PM: Lunch Break
+
+After two back-to-back tests, We had time to relax, grab something to eat, and chat with classmates. A good chance to start building connections.
+
+---
+
+## 1:00 PM: Auditorium Session
+
+Once lunch was over, we gathered in the auditorium for two important sessions planned for the afternoon.
+
+---
+
+## Scholarship Awareness – *Buddy4Study*
+
+The first session was by the **Buddy4Study** team. They told us about the **Satya Scholarship**, which is meant for students from the **Ludhiana district**.
+
+### Key Points:
+- Covers full tuition fee for UG and integrated courses like B.Tech, BCA, B.Com, MBBS, etc.
+- Some students may also get help with hostel and mess fees
+
+### Who Can Apply:
+- Students with at least 60% in Class 12 from a school/college in Ludhiana
+- Family income should be under ₹5 lakhs
+- Extra preference is given to girls, orphans, athletes, students with disabilities, and children of single parents
+
+### How to Apply:
+- Go to [Buddy4Study](https://www.buddy4study.com)
+- Sign up and submit documents (marksheet, ID, income proof)
+- **Deadline**: July 31, 2025
+
+This session was really helpful — many of us didn’t know about such scholarships before.
+
+---
+
+## Expert Talk – *Food, Wellness & Engineering*  
+**Speaker**: Dr. Arashdeep Singh
+
+Next, we had a talk by Dr. Arashdeep Singh. He explained how important it is to take care of our health — especially for students in tough courses like engineering.
+
+### What He Shared:
+- Engineering is not just about cramming — it needs focus and clear thinking
+- And that only comes with a healthy lifestyle
+
+He encouraged us to:
+- Eat regular, balanced meals
+- Stay hydrated
+- Sleep well
+- Avoid too much caffeine or junk food
+
+His message was simple: **A healthy mind starts with a healthy body**, and we should take care of both from day one.
+
+---
+
+## Interaction with Seniors & GitHub Intro
+
+The last part of the day was an interaction with our **seniors**, and it really stood out.
+
+They were super friendly and made us feel welcome. They also gave us an **intro to GitHub** — a platform where coders share and manage their code.
+
+### What We Learned:
+- How to make a GitHub account
+- What a repository is!
+
+They also said not to stress if we don’t get everything at once — we’ll learn as we go. Their support really made us feel like part of the department.
+
+---
+
+## Final Thoughts
+
+Overall, **Day 2** was full of new learnings and real experiences. It wasn’t just about tests — we got useful information, health advice, and a warm welcome from our seniors.
+
+Looking forward to what’s next in this journey!
