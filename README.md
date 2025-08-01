@@ -1,10 +1,14 @@
 
 # Induction 
-##Name: Daisy Sharma 
-##Father's Name: Rajwinder Kumar 
-##Branch: Computer Science and Engineering 
-##Registration Number: 25101369
-##Email: daisykaushal890@gmail.com
+#Name: Daisy Sharma 
+---
+#Father's Name: Rajwinder Kumar 
+---
+#Branch: Computer Science and Engineering 
+---
+#Registration Number: 25101369
+---
+#Email: daisykaushal890@gmail.com
 
  Induction Program 2025 – GNDEC
 
