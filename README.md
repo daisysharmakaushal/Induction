@@ -203,4 +203,54 @@ They also said not to stress if we don’t get everything at once — we’ll le
 
 Overall, **Day 2** was full of new learnings and real experiences. It wasn’t just about tests — we got useful information, health advice, and a warm welcome from our seniors.
 
-Looking forward to what’s next in this journey!
+---
+#  Induction Program Report – Day 3  
+**Date:** 2nd August 2025  
+**Departments:** Computer Science Engineering (CSE) & Information Technology (IT)  
+
+---
+
+Day 3 of the Induction Program 2025 was a day of discovery, excitement, and deeper connection for the Computer Science and Information Technology freshers. With a perfect blend of hands-on learning, inspiring words, and value-based discussions, the program created an environment that was both intellectually stimulating and emotionally enriching.
+
+---
+
+## Session Highlights
+
+### 9:00 AM – 11:15 AM | Dr. Jaswinder Singh – *JaswinS Lab on Wheels*  
+The day kicked off with an energizing and interactive session by **Dr. Jaswinder Singh**, well-known for his science outreach initiative, *JaswinS Lab on Wheels*.  
+Through simplified and enjoyable experiments, he brought **Physics and Mathematics** to life. His demonstrations helped students **visualize abstract concepts** and sparked **curiosity**, making complex subjects more approachable and engaging.
+
+---
+
+###  Post 11:15 AM | Address by Chief Guest – *Mr. Gurcharan Singh Grewal*  
+After this hands-on session, the audience was addressed by **Mr. Gurcharan Singh Grewal**, Secretary of SGPC.  
+His words were deeply **motivational**, emphasizing:  
+- Self-belief  
+- Discipline  
+- Importance of a strong moral foundation  
+
+His presence added a powerful and encouraging tone to the day’s proceedings.
+
+---
+
+### Followed by | Dr. Priya Darshni – *Universal Human Values – 1*  
+Later in the program, **Dr. Priya Darshni** led an insightful session on *Universal Human Values – 1*.  
+With her calm and thoughtful approach, she spoke about essential life values such as:  
+- Empathy  
+- Respect  
+- Responsibility  
+- Purpose  
+
+Her session inspired students to look inward, fostering a sense of **self-awareness** and **mindful living**.
+
+---
+
+###  End of Day | Student Reflections & Interaction  
+The day concluded with **open discussions and reflections**, where students:  
+- Expressed their thoughts  
+- Shared key takeaways  
+- Engaged with peers  
+
+It was a time of **mutual learning**, **bonding**, and **self realisation**
+
+---
