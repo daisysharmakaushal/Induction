@@ -254,3 +254,58 @@ The day concluded with **open discussions and reflections**, where students:
 It was a time of **mutual learning**, **bonding**, and **self realisation**
 
 ---
+# Induction Program 2025 - Day 4 Report (CSE-B)
+
+**Date:** 4th August 2025 (Monday)  
+**Branch:** Computer Science & Engineering – CSE-B
+
+---
+
+##  Morning Sessions
+
+###  9:30 AM – 10:30 AM — P2P Lecture  
+- 
+- **Conducted by:** 3rd Year CSE Students  
+- The session introduced **C++ programming basics** to freshers.  
+  
+- It was an interactive session where students also clarified their initial doubts, setting the tone for upcoming programming courses.
+
+###  English Lecture  
+- **Faculty:** Prof. Manjot Kaur  
+- **Focus:**  sentence correction, professional vocabulary.  
+- Exercises helped students understand how to communicate effectively in academic and industrial environments.
+
+---
+
+## 10:30 AM – 11:30 AM — English Lecture (Continued)
+- Activities included:
+  - Group discussions  
+  - Short introductions
+  
+- These helped improve confidence, fluency, and teamwork through active participation.
+
+---
+
+##  12:30 PM – 2:30 PM — Expert Lecture on "Universal Human Values-2"
+- **Speaker:** Dr. Priya Darshini Madam  
+- **Venue:** Auditorium  
+- Students were introduced to the role of ethics, empathy, and responsibility in daily life and engineering practice.  
+- Encouraged students to reflect on inner values and align them with career goals.
+
+---
+
+##  2:30 PM – 3:30 PM — Session by Causmic Club
+- The **Causmic Club** introduced their vision and active team members.  
+- **Key Highlights:**
+  - Seniors advised freshers on **what laptops to buy**, ideal specs for programming and college use.
+  - One senior **performed live with a guitar**, creating a memorable and fun vibe.
+  - Another senior ended the session by singing, leaving students energized and connected.
+- This session blended tech guidance with creative expression, making it both informative and entertaining.
+
+---
+
+## Conclusion
+Day 4 for **CSE-B** students was a well-balanced mix of **technical exposure, language enhancement, value education**, and **creative engagement**.  
+The combination of senior interaction, hands-on learning, and cultural performances created a memorable and welcoming experience for all students.
+
+---
