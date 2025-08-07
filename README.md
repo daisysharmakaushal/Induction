@@ -309,7 +309,7 @@ Day 4 for **CSE-B** students was a well-balanced mix of **technical exposure, la
 The combination of senior interaction, hands-on learning, and cultural performances created a memorable and welcoming experience for all students.
 
 ---
-#  Class Report – CSE-B
+#  Day 5
 
 ** Date:** 5th August 2025 (Tuesday)  
 **Class:** CSE-B  
