@@ -311,16 +311,16 @@ The combination of senior interaction, hands-on learning, and cultural performan
 ---
 #  Day 5
 
-** Date:** 5th August 2025 (Tuesday)  
+**Date:** 5th August 2025 (Tuesday)  
 **Class:** CSE-B  
 
 ---
 
 ## 10:30 AM – 11:30 AM  
 ###  BEEE Lecture  
-- ** Room:** F-108  
-- ** Faculty:** Prof. Harminder Kaur (ECE)  
-- ** Summary:**
+- **Room:** F-108  
+- **Faculty:** Prof. Harminder Kaur (ECE)  
+- **Summary:**
   - Introduction to *Basic Electrical and Electronics Engineering*.
   - Explained the **importance of BEEE** for all engineering branches.
 
@@ -328,9 +328,9 @@ The combination of senior interaction, hands-on learning, and cultural performan
 
 ##  11:30 AM – 12:30 PM  
 ###  Chemistry Lecture  
-- ** Room:** F-106  
-- ** Faculty:** Prof. Mandeep Kaur  
-- ** Summary:**
+- **Room:** F-106  
+- **Faculty:** Prof. Mandeep Kaur  
+- **Summary:**
   - Overview of the **Chemistry syllabus** with an engineering focus.
   - Emphasized key topic:
     - Electrochemistry  
@@ -340,8 +340,8 @@ The combination of senior interaction, hands-on learning, and cultural performan
 
 ##  2:00 PM – 4:30 PM  
 ###  ID Card Formation  
-- ** Location:** Outside TCC Seminar Hall  
-- ** Note:** *Only for CSE-B students*
+- **Location:** Outside TCC Seminar Hall  
+- **Note:** *Only for CSE-B students*
 
 ---
 
@@ -351,7 +351,7 @@ All subject teachers:
 - Introduced their respective subjects  
 - Explained **exam structures** in detail
 
-**Students were advised to:**
+*Students were advised to:*
 -  Maintain proper notebooks (Theory + Lab)  
 -  Be regular with attendance & submissions  
 
