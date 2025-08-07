@@ -309,3 +309,50 @@ Day 4 for **CSE-B** students was a well-balanced mix of **technical exposure, la
 The combination of senior interaction, hands-on learning, and cultural performances created a memorable and welcoming experience for all students.
 
 ---
+#  Class Report – CSE-B
+
+** Date:** 5th August 2025 (Tuesday)  
+**Class:** CSE-B  
+
+---
+
+## 10:30 AM – 11:30 AM  
+###  BEEE Lecture  
+- ** Room:** F-108  
+- ** Faculty:** Prof. Harminder Kaur (ECE)  
+- ** Summary:**
+  - Introduction to *Basic Electrical and Electronics Engineering*.
+  - Explained the **importance of BEEE** for all engineering branches.
+
+---
+
+##  11:30 AM – 12:30 PM  
+###  Chemistry Lecture  
+- ** Room:** F-106  
+- ** Faculty:** Prof. Mandeep Kaur  
+- ** Summary:**
+  - Overview of the **Chemistry syllabus** with an engineering focus.
+  - Emphasized key topic:
+    - Electrochemistry  
+    
+
+---
+
+##  2:00 PM – 4:30 PM  
+###  ID Card Formation  
+- ** Location:** Outside TCC Seminar Hall  
+- ** Note:** *Only for CSE-B students*
+
+---
+
+##  Summary & Instructions
+
+All subject teachers:
+- Introduced their respective subjects  
+- Explained **exam structures** in detail
+
+**Students were advised to:**
+-  Maintain proper notebooks (Theory + Lab)  
+-  Be regular with attendance & submissions  
+
+---
